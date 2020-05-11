@@ -11,8 +11,7 @@ import companystockexchange.Model.MainModel;
 import java.sql.ResultSet;
 import java.util.Date;
 import javax.swing.JOptionPane;
-import net.proteanit.sql.DbUtils;
-
+import net.proteanit.sql.DbUtils;   
 /**
  *
  * @author Wibby Chandra
